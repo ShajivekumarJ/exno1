@@ -94,5 +94,5 @@ ORIGINAL DATA:
 5.Interpolate():
 ![alt text](interpolate.png)
 
-# Result
-          <<include your Result here>>
+# Result:
+Thus, the data cleaning process was successfully completed in Python using Pandas, NumPy, and Matplotlib libraries.
